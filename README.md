@@ -17,3 +17,4 @@
 
 
 
+![add to cart window](https://github.com/suru03/e-commerce-website/assets/107910750/b96d52f4-a8ce-4e7c-b9ef-e0dfc7ca5548)
